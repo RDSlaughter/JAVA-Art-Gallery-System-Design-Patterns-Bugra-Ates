@@ -1,0 +1,23 @@
+﻿Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Batuhan	Erçetin	Male	05396439182	5561928343	Daydreamer	Leman Akpınar	Credit Card
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Psisik Çöl	Leman Akpınar	Cash
+Buğra	Ateş	Male	05396439182	5561928385	Daydreamer	Leman Akpınar	Bitcoin
+Buğra	Ateş	Male	05396439182	5561928385	Daydreamer	Leman Akpınar	Bitcoin
+Buğra	Ateş	Male	05396439182	5561928385	Daydreamer	Leman Akpınar	Bitcoin
+Buğra	Ateş	Male	05396439182	5561928385	Daydreamer	Leman Akpınar	Bitcoin
+asd	adsasd	Male	12123	321213213	Psisik ��l	Leman Akp�nar	Cash
+Simay	Hacet	Female	0583293191	12388138123	The Bear	Seda Gazioglu	Credit Card
+dsa	dasasdas	Male	sdasd	dsaasddsaa	Psisik ��l	Leman Akp�nar	Cash
+Bu�ra	Ate�	Male	1238123	213121321	Oyunbozan	Leman Akp�nar	Cash

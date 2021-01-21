@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Art_Gallery_System.jnlp">
+  <information>
+    <title>Art_Gallery_System</title>
+    <vendor>bugra</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Art_Gallery_System.jar" size="6258473" download="eager" />
+    <jar href="lib\AbsoluteLayout.jar" size="2903" download="eager" />
+    <jar href="lib\beansbinding-1.2.1.jar" size="631289" download="eager" />
+  </resources>
+  <application-desc main-class="ArtGalleryMain"  name="Art_Gallery_System" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
