@@ -276,6 +276,8 @@ _For each scenario you will have a subsection with the following information:_
 - _Scenario Description: We are going to take the informations from user and save it to the database._
 - _Sequence Diagram:_
 
+![alt text](https://ibb.co/9hcTJRq)
+
 # 6Supplementary Documentation
 
 **Sources to understand the patterns and the logic**
