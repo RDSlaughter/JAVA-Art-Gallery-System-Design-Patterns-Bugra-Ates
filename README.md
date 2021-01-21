@@ -1,7 +1,7 @@
 # JAVA Art Gallery System- GUI - Bugra Ates
  Java art gallery system codes and report included in this repository.
  This program was written with java design patterns.
- -- Buğra ATEŞ -- 
+ ## -- Buğra ATEŞ -- 
 
 Art Gallery Design Document v.1.0
 
@@ -275,8 +275,6 @@ _For each scenario you will have a subsection with the following information:_
 - _Scenario Name: Saving the informations to the database._
 - _Scenario Description: We are going to take the informations from user and save it to the database._
 - _Sequence Diagram:_
-
-![](RackMultipart20210121-4-1npvcni_html_273dc136b27f35c0.png)
 
 # 6Supplementary Documentation
 
