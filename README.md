@@ -5,14 +5,9 @@
 
 A ![](RackMultipart20210121-4-1npvcni_html_5d845c5af50f3880.gif) rt Gallery Design Document v.1.0
 
-# JAVA
-# ART GALLERY SYSTEM
-# REPORT
-
+# JAVA ART GALLERY SYSTEM REPORT
 ## 20.12.2019
-
-# Author:
-# Buğra ATEŞ
+# Author: Buğra ATEŞ
 
 Contents
 
