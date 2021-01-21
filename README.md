@@ -3,7 +3,7 @@
  This program was written with java design patterns.
  -- Buğra ATEŞ -- 
 
-A ![](RackMultipart20210121-4-1npvcni_html_5d845c5af50f3880.gif) rt Gallery Design Document v.1.0
+Art Gallery Design Document v.1.0
 
 # JAVA ART GALLERY SYSTEM REPORT
 ## 20.12.2019
@@ -11,37 +11,37 @@ A ![](RackMultipart20210121-4-1npvcni_html_5d845c5af50f3880.gif) rt Gallery Desi
 
 Contents
 
-_1__Introduction **[6](#__RefHeading___Toc338931479)**_
+_1__Introduction **[6]
 
-**1.1**** Purpose [6](# __RefHeading___ Toc338931480)**
+**1.1**** Purpose [6]
 
-**1.2**** System Overview [6](# __RefHeading___ Toc338931481)**
+**1.2**** System Overview [6]
 
-**1.3**** Design Objectives [6](# __RefHeading___ Toc338931482)**
+**1.3**** Design Objectives [6]
 
-**1.4**** References [6](# __RefHeading___ Toc338931483)**
+**1.4**** References [6]
 
-**1.5**** Definitions, Acronyms, and Abbreviations [6](# __RefHeading___ Toc338931484)**
+**1.5**** Definitions, Acronyms, and Abbreviations [6]
 
-_ **2** __**Design Overview [7](#__RefHeading___Toc338931485)**_
+_ **2** __**Design Overview [7]
 
-**2.1**** Introduction [7](# __RefHeading___ Toc338931486)**
+**2.1**** Introduction [7]
 
-**2.2**** Environment Overview [7](# __RefHeading___ Toc338931487)**
+**2.2**** Environment Overview [7]
 
-**2.3**** System Architecture [7](# __RefHeading___ Toc338931488)**
+**2.3**** System Architecture [7]
 
-2.3.1Art-Gallery System[7](# __RefHeading___ Toc338931490)
+2.3.1Art-Gallery System[7]
 
-**2.4**** Constraints and Assumptions [8](# __RefHeading___ Toc338931492)**
+**2.4**** Constraints and Assumptions [8]
 
-_ **3** __**Interfaces and Data Stores [9](#__RefHeading___Toc338931493)**_
+_ **3** __**Interfaces and Data Stores [9]
 
-**3.1**** System Interfaces [9](# __RefHeading___ Toc338931494)**
+**3.1**** System Interfaces [9]
 
-3.1.1Art-Gallery System[9](# __RefHeading___ Toc338931495)
+3.1.1Art-Gallery System[9]
 
-**3.2**** Data Stores [9](# __RefHeading___ Toc338931497)**
+**3.2**** Data Stores [9]
 
 _ **4** __ **Structural Design 10** _
 
@@ -49,17 +49,17 @@ _ **4** __ **Structural Design 10** _
 
 **4.2**** Class Diagram……………………………………………………………………...11**
 
-**4.2**** Class Descriptions [1](# __RefHeading___ Toc338931500)1**
+**4.2**** Class Descriptions [1]
 
-**4.3**** Classes in the Fuel Subsystem [1](# __RefHeading___ Toc338931501)1**
+**4.3**** Classes in the Fuel Subsystem [1]
 
-4.3.1Class: Tank [1](# __RefHeading___ Toc338931502)1
+4.3.1Class: Tank [1]
 
-_ **5** __**Dynamic Model [1](#__RefHeading___Toc338931503)2**_
+_ **5** __**Dynamic Model [1]
 
-**5.1**** Scenarios [1](# __RefHeading___ Toc338931504)2**
+**5.1**** Scenarios [1]
 
-6 **Supplementary Documentation _[1](# __RefHeading___ Toc338931506)_3**
+6 **Supplementary Documentation _[1]
 
 # 1Introduction
 
@@ -105,8 +105,6 @@ _ **The following is provided as an example:** _
 
 ### 2.3.1Art-Gallery System
 
-![](RackMultipart20210121-4-1npvcni_html_69289c006a8ab5ab.gif)
-
 _The Art-Gallery system consists of the Employee interface and Painting Interface. The Employee interface in turn consists of Saving Operations and Database._
 
 ## 2.4Constraints and Assumptions
@@ -139,7 +137,7 @@ _We stored the data in the app itself but also we created a database which is tx
 
 # 4Structural Design
 
-## 4.1C ![](RackMultipart20210121-4-1npvcni_html_6b99914b9dd5c187.png) lass Diagram
+## 4.1Class Diagram
 
 ##
 
