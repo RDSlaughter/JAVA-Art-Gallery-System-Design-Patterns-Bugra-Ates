@@ -1,19 +1,17 @@
 # JAVA Art Gallery System- GUI - Bugra Ates
  Java art gallery system codes and report included in this repository.
+ This program was written with java design patterns.
  -- Buğra ATEŞ -- 
 
 A ![](RackMultipart20210121-4-1npvcni_html_5d845c5af50f3880.gif) rt Gallery Design Document v.1.0
 
 # JAVA
-
 # ART GALLERY SYSTEM
-
 # REPORT
 
 ## 20.12.2019
 
 # Author:
-
 # Buğra ATEŞ
 
 Contents
