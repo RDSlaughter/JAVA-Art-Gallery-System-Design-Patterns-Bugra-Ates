@@ -61,69 +61,69 @@ _ **5** __**Dynamic Model [1]
 
 6 **Supplementary Documentation _[1]
 
-# 1Introduction
+# 1)Introduction
 
 We took &quot;Sale and Record the Paintings&quot; problem, and try to make an application to solve this issue.
 
-## 1.1Purpose
+## 1.1)Purpose
 
 This project helps people who are employees or workers to manage the art gallery and makes to do functions easily.
 
-## 1.2System Overview
+## 1.2)System Overview
 
 The technologies that we use in this project are mainly Java as a software language and a computer as a hardware and database part. These technologies can be changed, or new technologies can be added for the goal of application.
 
-## 1.3Design Objectives
+## 1.3)Design Objectives
 
 The design of the application is simplified by authors. Main page which means the paintings showroom is simple because customer has to be clear minded. The other pages are more complicated but still simple to understand how it works.
 
-## 1.4References
+## 1.4)References
 
 Provide references to other documents.
 
 _Hint_: You must at least refer to the requirements document!
 
-## 1.5Definitions, Acronyms, and Abbreviations
+## 1.5)Definitions, Acronyms, and Abbreviations
 
 _We didn&#39;t use any acronyms or abbreviations so we don&#39;t have any definitions._
 
 # 2Design Overview
 
-## 2.1Introduction
+## 2.1)Introduction
 
 ## While we designing and coding the project, we adopted and based on Object-Oriented design and used other relevant techniques and tools like website(draw.io) and Netbeans.
 
-## 2.2Environment Overview
+## 2.2)Environment Overview
 
 _This project is a computer-based application. Even for the database we used computer as a database._
 
-## 2.3System Architecture
+## 2.3)System Architecture
 
 _Provide a high-level description of the system architecture __. Use a few block diagrams_ _to show the major components and their interaction__. Remember to describe the conventions and notations used in your diagrams._
 
 _ **The following is provided as an example:** _
 
-### 2.3.1Art-Gallery System
+### 2.3.1)Art-Gallery System
 
 _The Art-Gallery system consists of the Employee interface and Painting Interface. The Employee interface in turn consists of Saving Operations and Database._
 
-## 2.4Constraints and Assumptions
+## 2.4)Constraints and Assumptions
 
 We focused ona a good design with some simple functions. Still we had constrain.
 
 1. _Our main constraint is time because we tried to make a good design so that took time and developing the app became a bit harder._
 
-# 3Interfaces and Data Stores
+# 3)Interfaces and Data Stores
 
 This section describes the interfaces into and out of the system as well as the data stores you will be including in your system.
 
-## 3.1System Interfaces
+## 3.1)System Interfaces
 
 _The various interfaces_ _provided to users and/or other external systems should be defined here. If you had included user interface_ _descriptions in your requirements document you may refer to them here. If you provide interfaces to other systems, say export and import data to a different software, you should mention them here._
 
 _Do not include JavaDocs here. You should describe the interfaces using prose and graphics if your interface includes a GUI._
 
-### 3.1.1Painting Interface
+### 3.1.1)Painting Interface
 
 _This interface is used to hold the painting on the screen, when user clicks on painting, informations about painting appears on a pop-up table. On the table there are informations like Artist Name, Painting&#39;s Year. But also there is another button which opens another table about paintings history. And also if user wants to save a order, he can use another button to open that page._
 
@@ -131,13 +131,13 @@ Employee Interface
 
 _This interface has blanks to fill the informations about order which are painting and customer informations. From this interface we can save, delete, update informations and also we can open the database page._
 
-## 3.2Data Stores
+## 3.2)Data Stores
 
 _We stored the data in the app itself but also we created a database which is txt file if user wants the save the info permanently._
 
 # 4Structural Design
 
-## 4.1Class Diagram
+## 4.1)Class Diagram
 
 ##
 
@@ -166,7 +166,7 @@ _We stored the data in the app itself but also we created a database which is tx
 
 - **DefineArtInfos is a class that determines the informations for each paintings. It has some certain strings in source code and it takes some strings from the saved files which are stories. Also this class is used by some other classes. Because in the beginning , which table that the user clicked has to determine the certain informations.**
 
-## 4.3Method Descriptions
+## 4.3)Method Descriptions
 
 ####
 
@@ -262,13 +262,13 @@ Processing logic:
 
 After taking the artType it uses ArtFactory class and its static getArt(artType) function. In this way the informations that are next to artType in hashmap are taken. So after that it can determine the story with using arts.getStory() function. (setting the story field with getStory())
 
-# 5Dynamic Model
+# 5)Dynamic Model
 
 _The purpose of this section is to model how the system responds to various events, i.e., model the system&#39;s behavior __. We do this using UML sequence diagrams__._
 
 _The first step is to identify different scenarios_ _(e.g. Fuel Level Overshoots), making sure you address each use case in your requirements document. Do not invent scenarios, rather a general guideline is to include scenarios that would make sense to the customer.__For example, for the course enrollment system, logging in is a valid scenario._
 
-## 5.1Scenarios
+## 5.1)Scenarios
 
 _For each scenario you will have a subsection with the following information:_
 
@@ -278,7 +278,7 @@ _For each scenario you will have a subsection with the following information:_
 
 <img src="https://ibb.co/9hcTJRq" />
 
-# 6Supplementary Documentation
+# 6)Supplementary Documentation
 
 **Sources to understand the patterns and the logic**
 
