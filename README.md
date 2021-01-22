@@ -292,3 +292,7 @@ _For each scenario you will have a subsection with the following information:_
 - **Head First Design Patterns a Brain-Friendly Guide by Eric Freeman &amp; Elisabeth**
 
 ![](RackMultipart20210121-4-1npvcni_html_216e88414c3a9363.gif)
+
+# Buğra ATEŞ 
+## https://github.com/RDSlaughter
+## https://www.linkedin.com/in/bugraates/
