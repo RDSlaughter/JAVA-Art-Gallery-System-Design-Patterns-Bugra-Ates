@@ -141,7 +141,7 @@ _We stored the data in the app itself but also we created a database which is tx
 
 ## 4.1)Class Diagram
 
-##
+![classsdiagramm2](https://user-images.githubusercontent.com/49213911/105468051-8d9b6f80-5ca7-11eb-84a4-d3ae444123ea.png)
 
 
 ## 4.2)Class Descriptions
@@ -278,7 +278,8 @@ _For each scenario you will have a subsection with the following information:_
 - _Scenario Description: We are going to take the informations from user and save it to the database._
 - _Sequence Diagram:_
 
-<img src="https://ibb.co/9hcTJRq" />
+![sequenediagramm3](https://user-images.githubusercontent.com/49213911/105468110-a2780300-5ca7-11eb-81d5-717bafa237d0.png)
+
 
 # 6)Supplementary Documentation
 
