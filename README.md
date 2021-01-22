@@ -142,7 +142,7 @@ _We stored the data in the app itself but also we created a database which is tx
 ##
 
 
-## 4.2Class Descriptions
+## 4.2)Class Descriptions
 
 - **ArtGalleryMain class is our main class and has an user interface. It contains different buttons for executing different GUIs. Also contains many event functions. It derives some objects from other classes in inside it for making some processes.**
 
