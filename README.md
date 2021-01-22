@@ -33,6 +33,8 @@ _ **2** __**Design Overview [7]
 
 2.3.1Art-Gallery System[7]
 
+![artgallerysystem1](https://user-images.githubusercontent.com/49213911/105467910-5dec6780-5ca7-11eb-9f2e-b290a58b6265.png)
+
 **2.4**** Constraints and Assumptions [8]
 
 _ **3** __**Interfaces and Data Stores [9]
