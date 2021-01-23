@@ -105,6 +105,7 @@ _ **The following is provided as an example:** _
 ### 2.3.1)Art-Gallery System
 
 _The Art-Gallery system consists of the Employee interface and Painting Interface. The Employee interface in turn consists of Saving Operations and Database._
+![artgallerysystem1](https://user-images.githubusercontent.com/49213911/105467910-5dec6780-5ca7-11eb-9f2e-b290a58b6265.png)
 
 ## 2.4)Constraints and Assumptions
 
